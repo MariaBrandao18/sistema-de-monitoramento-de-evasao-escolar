@@ -50,7 +50,7 @@ Este projeto trata dados em contexto pedagógico e segue as diretrizes da **LGPD
 | Nome | Papel |
 |------|-------|
 | [Maria Brandão](https://github.com/MariaBrandao18) | Estudante de CC |
-| [Marcela Lucy]([https://github.com/MariaBrandao18](https://github.com/lucybaia) | Estudante de ADS |
+| [Marcela Lucy](https://github.com/lucybaia) | Estudante de ADS |
 
 ---
 
