@@ -58,7 +58,7 @@ Este projeto trata dados em contexto pedagógico e segue as diretrizes da **LGPD
 
 | Nome | Papel |
 |------|-------|
-| [Walner Pessoa] (https://github.com/MariaBrandao18) | Professor |
+| [Walner Pessoa](https://github.com/WalnerPessoa) | Professor |
 | [UniCEUB](https://www.uniceub.br/) |
 
 ---
