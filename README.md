@@ -9,7 +9,7 @@
 
 A evasão escolar é um dos maiores desafios das instituições públicas de ensino no Brasil. Este projeto propõe um **dashboard de monitoramento preditivo**, integrado ao sistema acadêmico existente, capaz de identificar precocemente alunos em risco de abandono e gerar alertas automáticos para apoiar a intervenção pedagógica.
 
-Desenvolvido como Projeto Integrador do curso de Ciência da Computação, com foco em impacto social e aplicabilidade real.
+Desenvolvido como Projeto Integrador do curso de Ciência da Computação e Análise e Desenvolvimente, com foco em impacto social e aplicabilidade real.
 
 ---
 
@@ -51,6 +51,7 @@ Este projeto trata dados em contexto pedagógico e segue as diretrizes da **LGPD
 |------|-------|
 | [Maria Brandão](https://github.com/MariaBrandao18) | Estudante de CC |
 | [Marcela Lucy](https://github.com/lucybaia) | Estudante de ADS |
+| [Dimitri Ramos](https://github.com/DimitriRamos) | Estudante de CC |
 
 ---
 
