@@ -9,7 +9,7 @@
 
 A evasão escolar é um dos maiores desafios das instituições públicas de ensino no Brasil. Este projeto propõe um **dashboard de monitoramento preditivo**, integrado ao sistema acadêmico existente, capaz de identificar precocemente alunos em risco de abandono e gerar alertas automáticos para apoiar a intervenção pedagógica.
 
-Desenvolvido como Projeto Integrador do curso de Ciência da Computação e Análise e Desenvolvimente, com foco em impacto social e aplicabilidade real.
+Desenvolvido como Projeto Integrador do curso de Ciência da Computação e Análise e Desenvolvimento de Sistemas, com foco em impacto social e aplicabilidade real.
 
 ---
 
